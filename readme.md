@@ -3,6 +3,6 @@
 * Angular(with angular-ui-router)
 * Gulp
 * Bootstrap-material-design
-* includes in an index.html file
+* all includes in index.html file
 
 ### clone it and start creating ;)
